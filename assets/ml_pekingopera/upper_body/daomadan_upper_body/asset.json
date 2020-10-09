@@ -1,0 +1,36 @@
+{
+    "name": "daomadan_upper_body",
+    "i18n": {
+      "en": "Peking Opera Daomadan Coat",
+      "es": "Abrigo Daomadan de la Ópera de Pekín"
+    },
+    "tags": [
+      "Peking Opera",
+      "Chou",
+      "Coat",
+      "Top",
+      "Chinese"
+     ],
+    "category": "upper_body",
+    "replaces": [
+      "upper_body"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_daomadan_coat.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_daomadan_coat.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Chinese Peking Opera Character-Daomadan"
+  }

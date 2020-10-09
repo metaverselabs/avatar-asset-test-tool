@@ -1,0 +1,35 @@
+{
+    "name": "wusheng_lower_body",
+    "i18n": {
+      "en": "Peking Opera Wusheng Pants",
+      "es": "Pantalones Wusheng de la Ópera de Pekín"
+    },
+    "tags": [
+      "pants",
+      "chinese",
+      "wusheng",
+      "Peking Opera"
+     ],
+    "category": "lower_body",
+    "replaces": [
+      "lower_body"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_wusheng_pants.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_wusheng_pants.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Chinese Peking Opera Character-Wusheng"
+  }

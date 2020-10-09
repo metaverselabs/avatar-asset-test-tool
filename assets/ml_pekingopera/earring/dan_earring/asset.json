@@ -1,0 +1,35 @@
+{
+  "name": "dan_earring",
+  "i18n": {
+    "en": "Peking Opera Dan Earrings",
+    "es": "Pendientes Dan de la Ópera de Pekín"
+  },
+
+  "tags": [
+    "peking opera",
+    "dan",
+    "earring",
+    "chinese"
+   ],
+  "category": "earring",
+  "replaces": [
+    "helmet"
+   ],
+   "hides": [
+
+   ],
+
+  "main": [
+    {
+      "type": "BaseMale", 
+      "model": "M_dan_earring.glb", 
+      "overrideReplaces": [
+         ],
+         "overrideHides": [
+         ]
+      },
+      {"type": "BaseFemale", "model": "M_dan_earring.glb"}
+        ],
+        "rarity": "legendary",
+        "description": "Chinese Peking Opera Character-Dan"
+      }

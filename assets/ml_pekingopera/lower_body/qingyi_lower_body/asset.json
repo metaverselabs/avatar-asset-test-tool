@@ -1,0 +1,35 @@
+{
+    "name": "qingyi_lower_body",
+    "i18n": {
+      "en": "Peking Opera Qingyi Pants",
+      "es": "Pantalones Qingyi de la ópera de Pekín"
+    },
+    "tags": [
+      "pants",
+      "chinese",
+      "qingyi",
+      "Peking Opera"
+     ],
+    "category": "lower_body",
+    "replaces": [
+      "lower_body"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_qingyi_pants.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_qingyi_pants.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Chinese Peking Opera Character-Qingyi"
+  }

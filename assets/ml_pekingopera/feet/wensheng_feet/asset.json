@@ -1,0 +1,35 @@
+{
+    "name": "wensheng_feet",
+    "i18n": {
+      "en": "Peking Opera Wensheng Shoes",
+      "es": "Zapatos Wensheng de la Ópera de Pekín"
+    },
+    "tags": [
+      "shoes",
+      "peking opera",
+      "wensheng",
+      "chinese"
+     ],
+    "category": "feet",
+    "replaces": [
+      "feet"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_wensheng_feet.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_wensheng_feet.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Chinese Peking Opera Character-Wensheng"
+  }

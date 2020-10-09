@@ -1,0 +1,36 @@
+{
+    "name": "wensheng_upper_body",
+    "i18n": {
+      "en": "Peking Opera Wensheng Coat",
+      "es": "Abrigo Wensheng de la Ópera de Pekín"
+    },
+    "tags": [
+      "peking opera",
+      "wensheng",
+      "coat",
+      "top",
+      "chinese"
+     ],
+    "category": "upper_body",
+    "replaces": [
+      "upper_body"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_wensheng_coat.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_wensheng_coat.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Chinese Peking Opera Character-Wensheng"
+  }
