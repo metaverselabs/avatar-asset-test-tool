@@ -1,0 +1,35 @@
+{
+  "name": "chou_jianggan_mask",
+  "i18n": {
+    "en": "Peking Opera Jiang Gan Mask",
+    "es": "Máscara de Jiang gan de la ópera de Pekín"
+  },
+
+  "tags": [
+    "peking opera",
+    "jiang gan", 
+    "chinese", 
+    "mask"
+   ],
+  "category": "mask",
+  "replaces": [
+    "helmet"
+   ],
+   "hides": [
+    "facial_hair"
+   ],
+
+  "main": [
+    {
+      "type": "BaseMale", 
+      "model": "M_chou_jianggan_mask.glb", 
+      "overrideReplaces": [
+         ],
+         "overrideHides": [
+         ]
+      },
+      {"type": "BaseFemale", "model": "M_chou_jianggan_mask.glb"}
+        ],
+        "rarity": "legendary",
+        "description": "Peking Opera Character-JiangGan"
+      }

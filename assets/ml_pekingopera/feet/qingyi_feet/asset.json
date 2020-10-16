@@ -1,0 +1,35 @@
+{
+    "name": "qingyi_feet",
+    "i18n": {
+      "en": "Peking Opera Qingyi Shoes",
+      "es": "Zapatos Qingyi de la Ópera de Pekín"
+    },
+    "tags": [
+      "shoes",
+      "Peking Opera",
+      "qingyi",
+      "Chinese"
+     ],
+    "category": "feet",
+    "replaces": [
+      "feet"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_qingyi_feet.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_qingyi_feet.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Peking Opera Character-Qingyi"
+  }

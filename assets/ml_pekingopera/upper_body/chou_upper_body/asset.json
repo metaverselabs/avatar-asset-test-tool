@@ -1,15 +1,16 @@
 {
-    "name": "jing_upper_body",
+    "name": "chou_upper_body",
     "i18n": {
-      "en": "Peking Opera Jing Coat",
-      "es": "Abrigo Jing de la Ópera de Pekín"
+      "en": "Peking Opera Chou Coat",
+      "es": "Abrigo Chou de la Ópera de Pekín"
     },
     "tags": [
       "Peking Opera",
-      "Jing",
+      "Chou",
       "Coat",
       "Top",
       "Chinese"
+
      ],
     "category": "upper_body",
     "replaces": [
@@ -23,14 +24,14 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "M_jing_coat.glb", 
+  "model": "M_chou_coat.glb", 
   "overrideReplaces": [
      ],
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "M_jing_coat.glb"}
+  {"type": "BaseFemale", "model": "M_chou_coat.glb"}
     ],
     "rarity": "legendary",
-    "description": "Peking Opera Character-Jing"
+    "description": "Peking Opera Character-Chou"
   }

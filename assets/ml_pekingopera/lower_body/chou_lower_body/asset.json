@@ -1,13 +1,13 @@
 {
-    "name": "jing_lower_body",
+    "name": "chou_lower_body",
     "i18n": {
-      "en": "Peking Opera Jing Pants",
-      "es": "Pantalones Jing de la ópera de Pekín"
+      "en": "Peking Opera Chou Pants",
+      "es": "Pantalones Chou de la Ópera de Pekín"
     },
     "tags": [
       "pants",
       "chinese",
-      "jing",
+      "chou",
       "Peking Opera"
      ],
     "category": "lower_body",
@@ -22,14 +22,14 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "M_jing_pants.glb", 
+  "model": "M_chou_pants.glb", 
   "overrideReplaces": [
      ],
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "M_jing_pants.glb"}
+  {"type": "BaseFemale", "model": "M_chou_pants.glb"}
     ],
     "rarity": "legendary",
-    "description": "Peking Opera Character-Jing"
+    "description": "Peking Opera Character-Chou"
   }

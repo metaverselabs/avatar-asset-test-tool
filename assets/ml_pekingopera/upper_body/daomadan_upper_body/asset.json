@@ -1,12 +1,12 @@
 {
-    "name": "jing_upper_body",
+    "name": "daomadan_upper_body",
     "i18n": {
-      "en": "Peking Opera Jing Coat",
-      "es": "Abrigo Jing de la Ópera de Pekín"
+      "en": "Peking Opera Daomadan Coat",
+      "es": "Abrigo Daomadan de la Ópera de Pekín"
     },
     "tags": [
       "Peking Opera",
-      "Jing",
+      "Chou",
       "Coat",
       "Top",
       "Chinese"
@@ -23,14 +23,14 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "M_jing_coat.glb", 
+  "model": "M_daomadan_coat.glb", 
   "overrideReplaces": [
      ],
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "M_jing_coat.glb"}
+  {"type": "BaseFemale", "model": "M_daomadan_coat.glb"}
     ],
     "rarity": "legendary",
-    "description": "Peking Opera Character-Jing"
+    "description": "Peking Opera Character-Daomadan"
   }

@@ -1,0 +1,37 @@
+{
+    "name": "qingyi_hat",
+    "i18n": {
+      "en": "Peking Opera Qingyi Hat",
+      "es": "Sombrero Qingyi de la Ópera de Pekín"
+    },
+    "tags": [
+      "hat",
+      "chinese",
+      "qingyi",
+      "Peking Opera"
+     ],
+    "category": "hat",
+    "replaces": [
+      "hair",
+      "helmet",
+      "hat"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_qingyi_hat.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_qingyi_hat.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Peking Opera Character-Qingyi"
+  }

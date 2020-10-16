@@ -1,13 +1,13 @@
 {
-    "name": "jing_lower_body",
+    "name": "qingyi_lower_body",
     "i18n": {
-      "en": "Peking Opera Jing Pants",
-      "es": "Pantalones Jing de la ópera de Pekín"
+      "en": "Peking Opera Qingyi Pants",
+      "es": "Pantalones Qingyi de la ópera de Pekín"
     },
     "tags": [
       "pants",
       "chinese",
-      "jing",
+      "qingyi",
       "Peking Opera"
      ],
     "category": "lower_body",
@@ -22,14 +22,14 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "M_jing_pants.glb", 
+  "model": "M_qingyi_pants.glb", 
   "overrideReplaces": [
      ],
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "M_jing_pants.glb"}
+  {"type": "BaseFemale", "model": "M_qingyi_pants.glb"}
     ],
     "rarity": "legendary",
-    "description": "Peking Opera Character-Jing"
+    "description": "Peking Opera Character-Qingyi"
   }

@@ -1,0 +1,36 @@
+{
+    "name": "qingyi_upper_body",
+    "i18n": {
+      "en": "Peking Opera Qingyi Coat",
+      "es": "Abrigo Qingyi de la Ópera de Pekín"
+    },
+    "tags": [
+      "peking opera",
+      "qingyi",
+      "coat",
+      "top",
+      "chinese"
+     ],
+    "category": "upper_body",
+    "replaces": [
+      "upper_body"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_qingyi_coat.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_qingyi_coat.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Peking Opera Character-Qingyi"
+  }
