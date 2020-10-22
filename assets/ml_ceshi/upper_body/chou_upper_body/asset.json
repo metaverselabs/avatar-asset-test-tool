@@ -1,0 +1,37 @@
+{
+    "name": "chou_upper_body",
+    "i18n": {
+      "en": "Peking Opera Chou Coat",
+      "es": "Abrigo Chou de la Ópera de Pekín"
+    },
+    "tags": [
+      "Peking Opera",
+      "Chou",
+      "Coat",
+      "Top",
+      "Chinese"
+
+     ],
+    "category": "upper_body",
+    "replaces": [
+      "upper_body"
+  
+     ],
+     "hides": [
+    
+     ],
+  
+    "main": [
+  {
+  "type": "BaseMale", 
+  "model": "M_chou_coat.glb", 
+  "overrideReplaces": [
+     ],
+     "overrideHides": [
+     ]
+  },
+  {"type": "BaseFemale", "model": "M_chou_coat.glb"}
+    ],
+    "rarity": "legendary",
+    "description": "Peking Opera Character-Chou"
+  }

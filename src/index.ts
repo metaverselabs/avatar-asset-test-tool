@@ -14,7 +14,7 @@ import { getAssetFolderAbsPath } from './assets/getAssetFolderAbsPath'
 import { getFileCID } from './cid/getFileCID'
 
 if (!module.parent) {
-  runMain(['base-avatars','ml_pekingopera'])
+  runMain(['base-avatars','ml_pekingopera','ml_ceshi'])
   .catch(error => console.log(error, error.stack))
 }
 
